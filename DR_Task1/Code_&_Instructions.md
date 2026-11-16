@@ -119,7 +119,7 @@ end
 
 ## 4. Dynamic Routing
 
-> **Note:** Your brief says “three routers”, but the diagram has four, so apply the protocol on all four. Configure **one protocol at a time**, test, then remove it before trying the next. Do not run them together.
+> **Note:** Task says “three routers”, but the diagram has four, so apply the protocol on all four. Configure **one protocol at a time**, test, then remove it before trying the next. Do not run them together.
 
 ### A) RIP (v2)
 
