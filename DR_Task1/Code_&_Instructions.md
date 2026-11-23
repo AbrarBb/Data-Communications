@@ -1,6 +1,6 @@
 # Cisco Packet Tracer: Dynamic Routing Lab (RIPv2, EIGRP, OSPF)
 
-A step-by-step configuration guide for building a 4-router topology in Cisco Packet Tracer and testing **RIPv2**, **EIGRP**, and **OSPF** dynamic routing protocols.
+Configuration guide for building a 4-router topology in Cisco Packet Tracer and testing **RIPv2**, **EIGRP**, and **OSPF** dynamic routing protocols.
 
 ---
 
